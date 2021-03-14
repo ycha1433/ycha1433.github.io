@@ -1,0 +1,20 @@
+{
+    "info": {
+        "location": "",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "server": "One BP and two relays"
+        }      
+    },
+  "my-pool-ids": {
+    "0": ""
+  }
+}
