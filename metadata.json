@@ -1,8 +1,8 @@
 {
-    "name": "",
-    "ticker": "KOREA",
-    "description":"",
-    "homepage":"",
-    "nonce":"", 
+    "name": "KentuckyBourbon",
+    "ticker": "KYBBN",
+    "description":"No Description",
+    "homepage":"https://ycha1433.github.io",
+    "nonce":"1615768697", 
     "extended": "https://ycha1433.github.io/extendedmeta.json"
 }
