@@ -1,8 +1,1 @@
-{
-    "name": "KentuckyBourbon",
-    "ticker": "KYBBN",
-    "description":"No Description",
-    "homepage":"https://www.bourbonx.io/",
-    "nonce":"1615768697", 
-    "extended": "https://ycha1433.github.io/extendedmeta.json"
-}
+{ "name": "KentuckyBourbon", "ticker": "KYBBN", "description":"No Description", "homepage":"https://www.bourbonx.io/", "nonce":"1615768697", "extended": "https://ycha1433.github.io/extendedmeta.json"}
